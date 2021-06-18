@@ -1,8 +1,8 @@
-package com.example.demo.service;
+package com.example.demo.dao;
 
 import com.example.demo.entity.User;
 
-public interface SBDemoService {
+public interface SBDemoDao {
 
 	void saveUser(User user);
 
